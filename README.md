@@ -9,31 +9,40 @@
 
 <br>
 
-## 🛠️ Languages & Technologies
+### 🛠️ Languages & Technologies
 
-### ✨ Frontend:
+#### Frontend:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" transform="translateY(5px)" height="25" />Html 5
 
 <br>
 
-### ✨ Backend:
+#### Backend:
 
 <br>
 
-## 🛠️ OS, IDE & Tools
+### 💡 OS, IDE & Tools
 
 <br>
 
-### 📫 Contact Me
+### 📫 Connect With Me
 
 <div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
-<a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
+<a href='https://twitter.com/hassankhan_wise' target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
 </a>
-<a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank" style="margin-right:5px;">
+<a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='20' height='20' />          
+</a>
+<a href='mailto:hassankhan.infinitewise@gmail.com' target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-gmail" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ff2825" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+    <path d="M16 20h3a1 1 0 0 0 1 -1v-14a1 1 0 0 0 -1 -1h-3v16z" />
+    <path d="M5 20h3v-16h-3a1 1 0 0 0 -1 1v14a1 1 0 0 0 1 1z" />
+    <path d="M16 4l-4 4l-4 -4" />
+    <path d="M4 6.5l8 7.5l8 -7.5" />
+  </svg>      
 </a>
 
 
