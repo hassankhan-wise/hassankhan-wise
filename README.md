@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-## 🛠️ Languages & Technologies
+### 🛠️ Languages & Technologies
 
 #### Frontend:
 
@@ -21,11 +21,11 @@
 
 <br/><br/>
 
-## 💡 OS, IDE & Tools
+### 💡 OS, IDE & Tools
 
 <br/><br/>
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-## 🎖️ Badges
+### 🎖️ Badges
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
@@ -53,5 +53,5 @@
 
 <br/><br/>
 
-## 🔥 Stats
+### 🔥 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
