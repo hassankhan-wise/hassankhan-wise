@@ -9,15 +9,11 @@
 
 #### &nbsp;
 
-<style type="text/style">
-body{background:red;}
-</style>
-
 ## 🛠️ Languages/Technologies & Tools
 
 ### ✨ Frontend
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> <p>Html 5</p>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" />Html 5
 
 
 #### &nbsp;
