@@ -23,6 +23,17 @@
 #### 📫 Contact Me
 ----
 
+<a href='https://twitter.com/hassankhan_wise' target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+<a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />          
+</a>
+
+
+            
+          
+
 #### &nbsp;
 
 #### 🎖️ Badges
