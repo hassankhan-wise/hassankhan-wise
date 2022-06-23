@@ -13,12 +13,12 @@
 
 ### ✨ Frontend
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="transform: translateY(5px);" height="25" />Html 5
+- <span style="transform: translateY(5px);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /></span>Html 5
 
 
 #### &nbsp;
 
-<h3 style="border-bottom: 1px solid var(--color-border-muted);">📫 Contact Me</h3>
+<h2>📫 Contact Me</h2>
 
 ### 📫 Contact Me
 
