@@ -7,7 +7,7 @@
 - 💻 In my free time I read tech articles.
 - ⚡ Fun fact: "border: 1px solid red; is the console.log of css 😜"
 
-#### &nbsp;
+<br/><br/>
 
 ## 🛠️ Languages & Technologies
 
@@ -15,15 +15,15 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" transform="translateY(5px)" height="25" />Html 5
 
-#### &nbsp;
+<br/><br/>
 
 #### Backend:
 
-#### &nbsp;
+<br/><br/>
 
 ## 💡 OS, IDE & Tools
 
-#### &nbsp;
+<br/><br/>
 
 ## 📫 Connect With Me
 
@@ -43,7 +43,7 @@
 
 
 
-#### &nbsp;
+<br/><br/>
 
 ## 🎖️ Badges
 
@@ -51,7 +51,7 @@
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a>
 
-#### &nbsp;
+<br/><br/>
 
 ## 🔥 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
