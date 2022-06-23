@@ -11,6 +11,8 @@
 
 ### 🛠️ Languages & Technologies
 
+<divider style="border:1px solid red;"></divider>
+
 #### Frontend:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" transform="translateY(5px)" height="25" />Html 5
