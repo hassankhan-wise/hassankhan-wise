@@ -13,14 +13,20 @@
 
 ### ✨ Frontend
 
+<ul dir="auto">
+  <li>
+    <span style="transform: translateY(5px);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /></span>
+    Html 5
+  </li>
+</ul>
+
 - <span style="transform: translateY(5px);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /></span>Html 5
 
 
 #### &nbsp;
 
-<h2>📫 Contact Me</h2>
-
 ### 📫 Contact Me
+________________________
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
