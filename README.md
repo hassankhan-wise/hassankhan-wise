@@ -10,7 +10,7 @@
 <br/>
 
 ### 🛠️ Languages & Technologies
-## &nbsp;
+<h2></h2>
 
 #### Frontend:
 
@@ -23,12 +23,12 @@
 <br/><br/>
 
 ### 💡 OS, IDE & Tools
-## &nbsp;
+<h2></h2>
 
 <br/><br/>
 
 ### 📫 Connect With Me
-## &nbsp;
+<h2></h2>
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
@@ -45,7 +45,7 @@
 <br/><br/>
 
 ### 🎖️ Badges
-## &nbsp;
+<h2></h2>
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
@@ -54,6 +54,6 @@
 <br/><br/>
 
 ### 🔥 Stats
-## &nbsp;
+<h2></h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
