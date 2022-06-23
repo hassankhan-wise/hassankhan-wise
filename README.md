@@ -7,11 +7,10 @@
 - 💻 In my free time I read tech articles.
 - ⚡ Fun fact: "border: 1px solid red; is the console.log of css 😜"
 
-<br/><br/>
+<br/>
 
 ### 🛠️ Languages & Technologies
-
-<h2 height="0" margin="0"></h2>
+## &nbsp;
 
 #### Frontend:
 
@@ -24,10 +23,12 @@
 <br/><br/>
 
 ### 💡 OS, IDE & Tools
+## &nbsp;
 
 <br/><br/>
 
 ### 📫 Connect With Me
+## &nbsp;
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
@@ -41,11 +42,10 @@
   <img src="https://user-images.githubusercontent.com/77392509/175285808-6139a7b7-5db9-4c47-9cc3-06d13178af08.png" width='20' height='20' />   
 </a>
 
-
-
 <br/><br/>
 
 ### 🎖️ Badges
+## &nbsp;
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
@@ -54,4 +54,6 @@
 <br/><br/>
 
 ### 🔥 Stats
+## &nbsp;
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
