@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages & Technologies
 
-<p style="border-bottom: 1px solid var(--color-border-muted);"></p>
+<h2 style="border: 1px solid red;"></h2>
 
 #### Frontend:
 
