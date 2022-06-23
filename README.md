@@ -10,18 +10,17 @@
 
 #### &nbsp;
 
-#### 🛠️ Languages/Technologies & Tools
+### 🛠️ Languages/Technologies & Tools
 ----
 
 #### ✨ Frontend
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> Html 5
 
 
 #### &nbsp;
 
-####📫 Contact Me
+#### 📫 Contact Me
 ----
 
 #### &nbsp;
@@ -34,6 +33,4 @@
 #### &nbsp;
 
 #### 🔥 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hassankhan-wise)
