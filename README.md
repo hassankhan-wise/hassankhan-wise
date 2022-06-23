@@ -19,7 +19,7 @@
 #### &nbsp;
 
 ### 📫 Contact Me
-----
+<hr style="height:1px;" />
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
@@ -33,7 +33,7 @@
 #### &nbsp;
 
 ### 🎖️ Badges
-----
+<hr style="height:1px;" />
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
