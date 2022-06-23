@@ -16,16 +16,15 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" transform="translateY(5px)" height="25" />Html 5
 
-<br/>
 
 #### Backend:
 
-<br/>
+<br/><br/>
 
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
 
-<br/>
+<br/><br/>
 
 ### 📫 Connect With Me
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -42,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/77392509/175285808-6139a7b7-5db9-4c47-9cc3-06d13178af08.png" width='20' height='20' />   
 </a>
 
-<br/>
+<br/><br/>
 
 ### 🎖️ Badges
 '''''''''''''''''''''''''
@@ -51,7 +50,7 @@
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a>
 
-<br/>
+<br/><br/>
 
 ### 🔥 Stats
 ''''''''''''''''''''
