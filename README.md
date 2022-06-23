@@ -14,6 +14,7 @@
 
 #### Frontend:
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
@@ -41,11 +42,15 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://user-images.githubusercontent.com/77392509/175307826-397f7bf5-e8a6-4aab-956b-1ff4e33d819b.png" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
 
 #### Backend:
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="35" />
@@ -58,6 +63,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://user-images.githubusercontent.com/77392509/175310493-840ed99d-3ba8-4810-be8b-ad0db1e802e9.png" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
 
 <br/><br/>
 
