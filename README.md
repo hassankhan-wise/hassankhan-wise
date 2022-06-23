@@ -10,7 +10,7 @@
 
 #### &nbsp;
 
-<h2>🛠️ Languages/Technologies & Tools</h2>
+#### 🛠️ Languages/Technologies & Tools
 ----
 
 #### ✨ Frontend
@@ -19,14 +19,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" />
 
 
-<h2><h4>📫 Contact Me</h4></h2>
+#### &nbsp;
 
-<h2>&nbsp;</h2>
+####📫 Contact Me
+----
+
+#### &nbsp;
 
 #### 🎖️ Badges
+----
+
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
-<h2>&nbsp;</h2>
+#### &nbsp;
 
 #### 🔥 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankhan-wise&show_icons=true)
