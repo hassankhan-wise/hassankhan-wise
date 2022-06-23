@@ -9,7 +9,8 @@
 
 <br>
 
-## 🛠️ Languages & Technologies --------
+### 🛠️ Languages & Technologies
+-----
 
 #### Frontend:
 
@@ -21,11 +22,13 @@
 
 <br>
 
-## 💡 OS, IDE & Tools
+### 💡 OS, IDE & Tools
+-----
 
 <br>
 
-## 📫 Connect With Me
+### 📫 Connect With Me
+-----
 
 <div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
@@ -42,9 +45,8 @@
 
 <br>
 
-## 🎖️ Badges
-
-<div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
+### 🎖️ Badges
+-----
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
