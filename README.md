@@ -1,5 +1,4 @@
-<h2>Hi, I'm Hassan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"  height="30" />
-</h2>
+## Hi, I'm Hassan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"  height="30" />
 
 ### 🚀 About Me
 
@@ -15,18 +14,17 @@
 
 ### ✨ Frontend
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> Html 5
+- <div style="vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> Html 5</div>
 
 
 #### &nbsp;
 
 ### 📫 Contact Me
-----
 
-<a href='https://twitter.com/hassankhan_wise' target="_blank">
+<a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
 </a>
-<a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank">
+<a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='20' height='20' />          
 </a>
 
