@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages & Technologies
 
-<divider style="border:1px solid red;"></divider>
+<p style="border-bottom: 1px solid var(--color-border-muted);"></p>
 
 #### Frontend:
 
