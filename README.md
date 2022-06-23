@@ -11,6 +11,7 @@
 #### &nbsp;
 
 <h2>🛠️ Languages/Technologies & Tools</h2>
+----
 
 #### ✨ Frontend
 
