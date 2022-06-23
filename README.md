@@ -24,18 +24,30 @@
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" /> Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" /> Github
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="25" /> Gitlab
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" /> Npm
-<img src="https://user-images.githubusercontent.com/77392509/175299375-aeec681c-da73-4abf-991c-383b1197f317.svg" height="25" /> Postman
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="25" /> Grunt
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="25" /> Gulp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" /> Webpack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" /> VS Code
-<img src="https://user-images.githubusercontent.com/77392509/175297641-7351f703-f874-4d26-bc23-496d57c641d8.png" height="25" /> Sublime
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" /> Windows
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" /> Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://user-images.githubusercontent.com/77392509/175299375-aeec681c-da73-4abf-991c-383b1197f317.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://user-images.githubusercontent.com/77392509/175297641-7351f703-f874-4d26-bc23-496d57c641d8.png" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <br/><br/>
 
