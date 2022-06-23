@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages & Technologies
 
-<h2 style="border: 1px solid red;"></h2>
+<h2 height="0" margin="0"></h2>
 
 #### Frontend:
 
@@ -28,8 +28,6 @@
 <br/><br/>
 
 ### 📫 Connect With Me
-
-<div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
