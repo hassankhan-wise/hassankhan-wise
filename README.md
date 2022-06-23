@@ -16,16 +16,54 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://user-images.githubusercontent.com/77392509/175306196-7e193c1d-5daa-4726-bb88-2d8584389fa6.png" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://user-images.githubusercontent.com/77392509/175307826-397f7bf5-e8a6-4aab-956b-1ff4e33d819b.png" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 #### Backend:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://user-images.githubusercontent.com/77392509/175310493-840ed99d-3ba8-4810-be8b-ad0db1e802e9.png" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <br/><br/>
 
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
-<p></p>
-<br/>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
@@ -42,6 +80,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://user-images.githubusercontent.com/77392509/175297641-7351f703-f874-4d26-bc23-496d57c641d8.png" height="35" />
@@ -50,6 +90,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
 
 <br/>
 
