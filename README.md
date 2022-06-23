@@ -10,7 +10,6 @@
 #### &nbsp;
 
 ## 🛠️ Languages/Technologies & Tools
-----
 
 ### ✨ Frontend
 
@@ -20,6 +19,7 @@
 #### &nbsp;
 
 ### 📫 Contact Me
+---
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
