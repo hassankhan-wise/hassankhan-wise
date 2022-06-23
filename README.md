@@ -23,10 +23,13 @@
 
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+<a/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+    <a/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
