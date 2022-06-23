@@ -14,7 +14,8 @@
 
 #### Frontend:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" />Html 5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="35" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 
 #### Backend:
@@ -23,6 +24,7 @@
 
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
+<p></p>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -49,7 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
-<br/><br/>
+<br/>
 
 ### 📫 Connect With Me
 ''''''''''''''''''''''''''''''''''''''''''''''''''''
