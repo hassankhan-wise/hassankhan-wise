@@ -55,7 +55,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
