@@ -23,7 +23,7 @@
 
 ### 💡 OS, IDE & Tools
 '''''''''''''''''''''''''''''''''''''''''''''
-
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
