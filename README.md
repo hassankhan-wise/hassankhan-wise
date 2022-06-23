@@ -18,7 +18,7 @@
 
 #### &nbsp;
 
-<h2><h6>📫 Contact Me</h6></h2>
+<h3 style="border-bottom: 1px solid var(--color-border-muted);">📫 Contact Me</h3>
 
 ### 📫 Contact Me
 
