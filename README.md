@@ -11,7 +11,7 @@
 #### &nbsp;
 
 ### 🛠️ Languages/Technologies & Tools
----
+--
 
 #### ✨ Frontend
 
@@ -24,10 +24,10 @@
 ----
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='40' height='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='25' height='25' />
 </a>
 <a href='https://www.linkedin.com/in/hassankhan-wise' target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='40' height='40' />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='25' height='25' />          
 </a>
 
 
