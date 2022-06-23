@@ -9,17 +9,21 @@
 
 #### &nbsp;
 
+<style type="text/style">
+body{background:red;}
+</style>
+
 ## 🛠️ Languages/Technologies & Tools
 
 ### ✨ Frontend
 
-- <div style="vertical-align:middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> Html 5</div>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /> <p>Html 5</p>
 
 
 #### &nbsp;
 
 ### 📫 Contact Me
----
+----
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
@@ -29,15 +33,15 @@
 </a>
 
 
-            
-          
 
 #### &nbsp;
 
 ### 🎖️ Badges
 ----
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a>
 
 #### &nbsp;
 
