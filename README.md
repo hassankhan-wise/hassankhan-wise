@@ -13,20 +13,14 @@
 
 ### ✨ Frontend
 
-<ul dir="auto">
-  <li>
-    <span style="transform: translateY(5px);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /></span>
-    Html 5
-  </li>
-</ul>
-
-- <span style="transform: translateY(5px);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25" /></span>Html 5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" transform="translateY(5px)" height="25" />Html 5
 
 
 #### &nbsp;
 
 ### 📫 Contact Me
-________________________
+
+<div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
 <a href='https://twitter.com/hassankhan_wise' target="_blank" style="margin-right:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width='20' height='20' />
@@ -40,6 +34,8 @@ ________________________
 #### &nbsp;
 
 ### 🎖️ Badges
+
+<div style="height: 1px;margin: 24px 0;background-color: var(--color-border-default);"></div>
 
 <a href='https://docs.github.com/en/developers'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
