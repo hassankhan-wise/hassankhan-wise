@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m software developer and currently working on [@FabMediaIO](https://github.com/FabMediaIO "@FabMediaIO").
+- 🔭 I’m software developer and currently working in [@FabMediaIO](https://github.com/FabMediaIO "@FabMediaIO").
 - 🌱 I’m currently learning new and trending technologies.
 - 💻 In my free time I read tech articles.
 - ⚡ Fun fact: "border: 1px solid red; is the console.log of css 😜"
